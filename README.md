@@ -2,7 +2,7 @@
 
   👾投稿したゲームのURLはこちら
   https://unityroom.com/games/hasssukura
-  </a><
+  </a>
   Qiitaはこちら
 https://qiita.com/K-1873
 <!---
