@@ -1,6 +1,6 @@
 - 趣味でゲーム開発をしてます！
 
-  👾投稿したゲームのURLはこちら
+  - 👾投稿したゲームのURLはこちら
   https://unityroom.com/games/hasssukura
   </a>
 - Qiitaはこちら
